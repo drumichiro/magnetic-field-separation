@@ -1,5 +1,7 @@
 # Magnet Field Separation
 
+If my paper is accepted, all source codes including separation algorithm will be uploaded.
+
 ## INTRODUCTION
 This is an application to separate the magnetic field generated from multi-magnets.
 
